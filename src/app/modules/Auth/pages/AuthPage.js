@@ -62,7 +62,7 @@ const AuthPage = () => {
 
                 <p>
                   <br />
-                  GENERANDO CONFIANZA A NUESTROS CLIENTES
+                  Tu SALUD EN MANOS DE LOS MEJORES MEDICOS 
                 </p>
               </div>
               <div className="d-flex flex-row justify-content-between m-3">
